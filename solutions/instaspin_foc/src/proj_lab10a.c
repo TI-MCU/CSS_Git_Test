@@ -46,6 +46,7 @@
 // the includes
 
 //Add commen 1.
+int data1;
 // system includes
 #include <math.h>
 #include "main.h"
