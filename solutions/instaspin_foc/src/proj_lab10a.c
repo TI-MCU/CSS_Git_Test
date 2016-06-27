@@ -45,7 +45,7 @@
 // **************************************************************************
 // the includes
 
-//Add commen_1 for test.
+//Add commen 1.
 // system includes
 #include <math.h>
 #include "main.h"
